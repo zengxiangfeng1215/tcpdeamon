@@ -18,6 +18,8 @@ It also checks the md5 sum of the file and if it does not match the one in the p
 
 `sudo ./deamon -i` for interctive mode
 
+yo
+
 ## How to send file
 
 Example:
@@ -36,3 +38,5 @@ Example:
 
 ## How to stop
 `sudo kill {PID}` - where PID - process ID of the deamon (htop can help you to find it)
+
+**It also have log file named `deamon_log.txt`.**
