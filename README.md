@@ -33,3 +33,6 @@ Example:
 `image=@*` - path to file to upload
 
 `http://localhost:80` - address
+
+## How to stop
+`sudo kill {PID}` - where PID - process ID of the deamon (htop can help you to find it)
