@@ -18,7 +18,8 @@ It also checks the md5 sum of the file and if it does not match the one in the p
 
 `sudo ./deamon -i` for interctive mode
 
-yo
+`sudo ./deamon -h` for help
+
 
 ## How to send file
 
